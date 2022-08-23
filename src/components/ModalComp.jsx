@@ -78,10 +78,10 @@ const ModalComp = ({ data, setData, dataEdit, isOpen, onClose }) => {
 
           <ModalFooter justifyContent="start">
             <Button colorScheme="green" mr={3} onClick={handleSave}>
-              SALVAR
+             Salvar
             </Button>
             <Button colorScheme="red" onClick={onClose}>
-              CANCELAR
+              Cencelar
             </Button>
           </ModalFooter>
         </ModalContent>

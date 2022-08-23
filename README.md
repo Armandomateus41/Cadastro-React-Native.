@@ -1,0 +1,2 @@
+## Quality of the Code 
+[![DeepScan grade](https://deepscan.io/api/teams/18592/projects/22034/branches/645798/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=18592&pid=22034&bid=645798)
